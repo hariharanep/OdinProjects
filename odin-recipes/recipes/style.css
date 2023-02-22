@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+.description {
+    color: burlywood;
+}
+
+.ingredients {
+    color: blue;
+}
+
+.steps {
+    color: chartreuse;
+}
+
+.title {
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
